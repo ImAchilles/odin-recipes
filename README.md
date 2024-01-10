@@ -1,2 +1,6 @@
 # odin-recipes
-Practice site from the Odin Project, just a website with recipes on it.
+Practice site from the Odin Project
+
+Just a website with recipes on it, to Practice HTML
+
+
